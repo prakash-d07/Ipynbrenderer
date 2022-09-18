@@ -23,10 +23,9 @@ list_files=[
     "tests/__init__.py",
     "tests/unit/__init__.py",
     "tests/integration/__init__.py",
-    "init_setup.py",
     "setup.py",
     "project.toml",
-    "setup.tfg",
+    "setup.cfg",
     "tox.ini",
     "requirments.txt",
     "requirments_dev.txt"
