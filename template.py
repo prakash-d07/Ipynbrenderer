@@ -27,8 +27,8 @@ list_files=[
     "project.toml",
     "setup.cfg",
     "tox.ini",
-    "requirments.txt",
-    "requirments_dev.txt"
+    "requirements.txt",
+    "requirements_dev.txt"
 ]
 
 for filepath in list_files:
